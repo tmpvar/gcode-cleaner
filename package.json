@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/tmpvar/gcode-cleaner/issues"
   },
-  "homepage": "https://github.com/tmpvar/gcode-cleaner"
+  "homepage": "https://github.com/tmpvar/gcode-cleaner",
+  "bin": {
+    "gcode-cleaner": "gcode-cleaner.js"
+  },
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "split": "^0.3.0"
+  }
 }
