@@ -1,6 +1,6 @@
 {
   "name": "gcode-cleaner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "clean gcode for grbl",
   "main": "gcode-cleaner.js",
   "scripts": {
